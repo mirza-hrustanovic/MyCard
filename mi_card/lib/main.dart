@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
             SizedBox(
               height: 20,
               width: 250,
-              //vertical line divider
+              //horizontal line divider
               child:Divider(
                 color:Colors.teal.shade100
               ) ,
